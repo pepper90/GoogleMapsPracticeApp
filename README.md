@@ -7,4 +7,5 @@ Basic GoogleMaps app with the following features :
 - On long click
 - POI click
 - Custom vintage styling and green roads
+- Addes Android icon map overlay
 - Enabled location tracking.
